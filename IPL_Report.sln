@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IPL_Report", "IPL_Report.rptproj", "{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Debug|Default.ActiveCfg = Debug
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Debug|Default.Build.0 = Debug
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Debug|Default.Deploy.0 = Debug
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.DebugLocal|Default.Build.0 = DebugLocal
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Release|Default.ActiveCfg = Release
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Release|Default.Build.0 = Release
+		{34ECCD5C-0D59-4201-AE55-77408EA2E4DC}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E559F5-EE7B-4CC1-8DD8-DDC86DB2A99C}
+	EndGlobalSection
+EndGlobal
